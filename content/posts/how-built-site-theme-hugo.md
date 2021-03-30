@@ -23,7 +23,7 @@ I wanted to use Gatsby to start learning React, and it seemed to have the nicest
 I was going to use a CMS to manage my posts and projects. I always wanted one that integrates with GitHub, so that my content isn’t hosted by the CMS but locally on my computer and online on GitHub. I did start trying to integrate Netlify CMS, but questioned why I even needed it about halfway through. I’m the only author, and I’m very comfortable writing these posts in Bear, then pasting them to a new Hugo post in VS Code before pushing them to my GitHub repository. I decided it’s actually less complicated to forgo a CMS for this site.
 
 # The abbieschenk Theme
-You can find the theme I made on [GitHub](???) ::TODO::. It’s made specifically for this site, so some things might not work right for you. I recommend forking the repository and reading the README.
+You can find the theme I made on [GitHub](https://github.com/abbieschenk/hugo-theme-abbieschenk), along with [this site](https://github.com/abbieschenk/abbieschenk.com). It’s made specifically for this site, so some things might not work right for you. I recommend forking the repository and reading the README.
 
 ## Tutorial
 I followed an excellent tutorial to start building my theme. While looking through the rest of the site to see if I wanted to subscribe to its RSS, I found a list of the author’s favourite things. This included a YouTube debate about “trans activism” by some of the most prominent anti-trans activists on the internet. Whether we can separate the work from the author might be an interesting discussion, but not worth having over a website tutorial.
