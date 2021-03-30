@@ -1,0 +1,17 @@
+<svg width="100%" height="100%" viewBox="0 0 180 180" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="Logo" transform="matrix(0.826059,0,0,1.05066,37.3748,10.2478)">
+        <rect x="-45.245" y="-9.754" width="217.902" height="171.321" style="fill:none;"/>
+        <clipPath id="_clip1">
+            <rect x="-45.245" y="-9.754" width="217.902" height="171.321"/>
+        </clipPath>
+        <g clip-path="url(#_clip1)">
+            <g transform="matrix(1.35872,0,0,1.05254,-59.9863,-17.9502)">
+                <rect x="10.85" y="7.787" width="160.373" height="162.769"/>
+                <path d="M171.222,7.787L10.85,7.787L10.85,170.557L171.222,170.557L171.222,7.787ZM164.986,14.117L164.986,164.227C164.986,164.227 17.086,164.227 17.086,164.227C17.086,164.227 17.086,43.391 17.086,14.117L164.986,14.117Z" style="fill:rgb(83,112,92);"/>
+            </g>
+            <g transform="matrix(2.61588,0,0,2.05668,-168.878,11.8847)">
+                <text x="57.663px" y="48.979px" style="font-family:'HelveticaNeue-Medium', 'Helvetica Neue', sans-serif;font-weight:500;font-size:50px;fill:white;">A<tspan x="89.763px " y="48.979px ">S</tspan></text>
+            </g>
+        </g>
+    </g>
+</svg>
