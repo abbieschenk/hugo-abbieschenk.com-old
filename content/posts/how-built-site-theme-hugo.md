@@ -2,7 +2,7 @@
 title: "How I built this site and theme with Hugo"
 description: "A technical overview of how I built this site using Hugo and a custom theme."
 date: 2021-03-30T10:40:00-06:00
-tags: [meta, code, hugo]
+tags: [meta, dev, hugo]
 draft: false
 ---
 After determining [why I wanted to build a site](/posts/why-built-site/), I had to actually build it. Static site generators (SSGs) are constantly recommended, and are also free to host using a combination of GitHub, products like Netlify, and Cloudinary for images. I wanted to try one out myself.

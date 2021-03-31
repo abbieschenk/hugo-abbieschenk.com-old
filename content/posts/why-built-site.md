@@ -2,7 +2,7 @@
 title: "Why I built this site"
 description: "Some assorted thoughts on why I built my own website with a blog instead of just posting to social media."
 date: 2021-03-30T10:30:00-06:00
-tags: ["meta", "code"]
+tags: ["meta", "dev"]
 draft: false
 ---
 I built my first website in 2003, the summer before starting Junior High. I was in a University of Alberta summer camp that taught kids to write very basic code. The final product was a greenish-grey, purely HTML, Web 1.0 site presenting very basic information about the game Star Wars: Galactic Battlegrounds. I learned how to publish the site to GeoCities, took the files home on multiple floppy disks, and then forgot about it as I went back to playing Star Wars.
@@ -62,9 +62,10 @@ Instead of throwing everything into a closed platform again, I went with buildin
 
 ## Conclusion
 I wanted a site to:
-* Build a portfolio to show my projects in one place
-* Reduce my social media use
-* Keep writing
+* Build a portfolio to show my projects in one place.
+* Reduce my social media use.
+* Keep writing.
+
 If this rings familiar to you, you might be interested in the tandem first post on [how I built this site](/posts/how-built-site-theme-hugo/). Or you might like to follow along, which you can do via the social and RSS links at the top and bottom of this page.
 
 I look forward to wherever this goes.

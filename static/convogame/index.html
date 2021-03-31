@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/smoothness/jquery-ui.css">
+        <link rel="stylesheet" href="style.min.css" type="text/css"/>
+
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+		<script src="lib/jsPlumb-2.0.7.js"></script>
+        <script src="convo.js"></script>
+    </head>
+    <body>
+        <div class="header">CONVOGAME</div>
+        <div id="convo-editor"></div>
+        <div id="node-editor">
+            <div id="editor-text">
+                Select a node!
+            </div>
+            <div id="editor-buttons">
+                <div>
+                    <label for="node-text" title="The dialogue text to show">Text</label>
+                    <!--<input id="node-text" type="text" class="textarea" name="node-text"></input>-->
+                    <textarea id="node-text" name="node-text" cols="40" rows="5"></textarea>
+                </div>
+                <div>
+                    <label for="node-character" title="The character's name. Must match character name in game engine.">Character</label>
+                    <input id="node-character" type="text" name="node-character"></input>
+                </div>
+                <div>
+                    <label for="node-priority" title="If there are two choices, the node with the higher priority should fire by default unless it is disabled.">Priority</label>
+                    <input id="node-priority" type="number" name="node-priority" placeholder="0"></input>
+                </div>
+                <div>
+                    <label for="node-show-if" title="Only show this if the current quest is active, in the format QuestName#Stage, e.g. CatFetch#0">ShowIf</label>
+                    <input id="node-show-if" type="text" name="node-show-if"></input>
+                </div>
+                <div>
+                    <label for="node-on-complete-quest" title="Finish the quest up to the specified stage on completing this dialogue point, in the same format as ShowIf.">OnCompleteQuest</label>
+                    <input id="node-on-complete-quest" type="text" name="node-on-complete-quest"></input>
+                </div>
+                <div>
+                    <label for="node-on-complete-function" title="Fire the named function on completing this dialogue point. Can include multiple, comma-separated function names. If they require parameters, make them in the format Function#Paramter1#Parameter2#Etc">OnCompleteFunction</label>
+                    <input id="node-on-complete-function" type="text" name="node-on-complete-function"></input>
+                </div>
+                <div class="separator"></div>
+                <div class="button" id="add-button">Add Child</div>
+                <div class="button" id="delete-button">Delete</div>
+            </div>
+            <div class="separator line"></div>
+            <div>
+                <input type="file" id="import-file" accept=".json">
+                <span class="button" id="import-button">Import</span>
+            </div>
+            <div class="button" id="export-button">Export</div>
+        </div>
+    </body>
+</html>

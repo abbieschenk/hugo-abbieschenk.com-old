@@ -1,0 +1,50 @@
+{
+	"dialogues": [
+		{
+            "id": 0,
+            "x": 100,
+            "y": 60,
+		    "text": "*Yawn* Long day of poking around all these boxes. Time for some noms and a nap.",
+		    "character": "Truffle",
+		    "responses": [
+                {
+                    "id": 1,
+                    "x": 30,
+                    "y": 240,
+		            "text": "What's up?",
+		            "responses": [
+                        {
+                            "id": 2,
+                            "x": 50,
+                            "y": 320,
+                            "text": "Not much.",
+                            "character": "Truffle",
+                            "responses": [
+                                {
+                                    "id": 3,
+                                    "x": 0,
+                                    "y": 440,
+                                    "text": "Ok, bye."
+                                }, {
+                                    "id": 4,
+                                    "x": 200,
+                                    "y": 440,
+                                    "text": "Restart."
+                                }
+                            ]
+                        }
+                    ]
+		        }, {
+                    "id": 5,
+                    "x": 200,
+                    "y": 240,
+		            "text": "Go To Not Much",
+					"responses": [],
+					"references": [
+						2
+					]
+		        }
+		    ]
+		}
+	]
+}
