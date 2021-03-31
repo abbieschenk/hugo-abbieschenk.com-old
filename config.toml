@@ -1,4 +1,4 @@
-baseURL = "http://abbieschenk.com/"
+baseURL = "https://abbieschenk.com/"
 languageCode = "en-ca"
 title = "Abbie Schenk"
 theme = "hugo-theme-abbieschenk"
