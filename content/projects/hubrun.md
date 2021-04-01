@@ -2,6 +2,7 @@
 title: "HUB Run"
 date: 2015-09-01T08:30:00-07:00
 description: "A web game based on a University of Alberta locale for the student newspaper."
+socialcloudinaryimg: "projects/hub-run/hubrun_vyv8yx.jpg"
 tags: ["dev", "web", "gaming"]
 draft: false
 ---

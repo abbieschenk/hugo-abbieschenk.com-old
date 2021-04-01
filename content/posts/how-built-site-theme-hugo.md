@@ -3,6 +3,7 @@ title: "How I built this site with Hugo"
 description: "A technical overview of how I built this site using Hugo and a custom theme."
 date: 2021-03-30T10:40:00-06:00
 tags: [meta, dev, hugo]
+socialcloudinaryimg: "flight/view-from-plane.jpg"
 draft: false
 ---
 After determining [why I wanted to build a site](/posts/why-built-site/), I had to actually build it. Static site generators (SSGs) are constantly recommended, and are also free to host using a combination of GitHub, products like Netlify, and Cloudinary for images. I wanted to try one out myself.
@@ -91,7 +92,7 @@ After hacking this together, I started implementing Cloudinary. I adapted [this 
 
 The final result looks lke this:
 
-{{< cloudinary src="flight/view-from-plane" alt="A photo taken from inside of an airplane of mountains on a flight from Alberta to British Columbia. The frame of the window is visible in the bottom right corner. The mountains have a golden cast from the sunlight, and the image is grainy due to being taken with a film camera." caption="A photo I took with my Contax G1 from a plane at the start of a trip." >}}
+{{< cloudinary src="flight/view-from-plane.jpg" alt="A photo taken from inside of an airplane of mountains on a flight from Alberta to British Columbia. The frame of the window is visible in the bottom right corner. The mountains have a golden cast from the sunlight, and the image is grainy due to being taken with a film camera." caption="A photo I took with my Contax G1 from a plane at the start of a trip." >}}
 
 # Extensibility
 I wanted to make the theme easily extendable by anyone who wants to use it for their site. It comes with a README that should go into enough detail to get started. While I do think people should fork it if they want to use the theme, I did include some user-specific files:

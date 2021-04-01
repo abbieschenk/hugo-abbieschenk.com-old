@@ -1,6 +1,7 @@
 ---
 title: "ScriptEase II"
 description: "A program that allows video game designers to create scripts using a GUI."
+socialcloudinaryimg: "projects/scriptease-ii/seii_vcezit.png"
 date: 2014-09-01T09:30:00-06:00
 tags: ["dev", "java", "gaming"]
 draft: false

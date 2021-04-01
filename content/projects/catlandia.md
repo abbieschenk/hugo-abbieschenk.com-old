@@ -3,6 +3,7 @@ title: "Catlandia"
 description: "A cat-based Unity3D role playing game released for PC, macOS, Android, and iOS."
 date: 2018-05-01T09:30:00-06:00
 tags: ["dev", "unity3D", "gaming"]
+socialcloudinaryimg: "projects/catlandia/convogame_ez0fvy.png"
 draft: false
 ---
 I assisted with initial development of Catlandia, a cat-based Unity3D role playing game. Although I left the team in 2018 to focus on my MA thesis, the game was later released on PC and macOS through Steam, and the Android and iOS app stores.

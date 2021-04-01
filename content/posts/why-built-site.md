@@ -1,6 +1,7 @@
 ---
 title: "Why I built this site"
 description: "Some assorted thoughts on why I built my own website with a blog instead of just posting to social media."
+socialcloudinaryimg: "flight/view-from-plane.jpg"
 date: 2021-03-30T10:30:00-06:00
 tags: ["meta", "dev"]
 draft: false
@@ -20,7 +21,7 @@ Most of these personal sites/portfolios/blogs don’t talk about why the site wa
 
 The site is split into two basic parts: the portfolio (Projects) and the blog (Posts). The following are some of the biggest questions I thought about while making the site.
 
-{{< cloudinary src="flight/view-from-plane" alt="A photo taken from inside of an airplane of mountains on a flight from Alberta to British Columbia. The frame of the window is visible in the bottom right corner. The mountains have a golden cast from the sunlight, and the image is grainy due to being taken with a film camera." caption="A photo I took with my Contax G1 at the start of a trip while flying over the mountains between Edmonton and Vancouver." >}}
+{{< cloudinary src="flight/view-from-plane.jpg" alt="A photo taken from inside of an airplane of mountains on a flight from Alberta to British Columbia. The frame of the window is visible in the bottom right corner. The mountains have a golden cast from the sunlight, and the image is grainy due to being taken with a film camera." caption="A photo I took with my Contax G1 at the start of a trip while flying over the mountains between Edmonton and Vancouver." >}}
 
 ## Portfolio
 ### Why not create separate photography and code portfolios?
