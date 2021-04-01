@@ -1,5 +1,5 @@
 ---
-title: "How I built this site and theme with Hugo"
+title: "How I built this site with Hugo"
 description: "A technical overview of how I built this site using Hugo and a custom theme."
 date: 2021-03-30T10:40:00-06:00
 tags: [meta, dev, hugo]
