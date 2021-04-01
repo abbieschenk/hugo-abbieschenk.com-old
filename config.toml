@@ -3,6 +3,7 @@ languageCode = "en-ca"
 title = "Abbie Schenk"
 theme = "hugo-theme-abbieschenk"
 disqusShortname = "abbieschenk"
+googleAnalytics = "G-D2Q0009J95"
 
 copyright = "All work is Copyright of © Abbie Schenk unless otherwise identified."
 
