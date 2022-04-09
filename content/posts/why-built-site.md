@@ -4,7 +4,7 @@ description: "Some assorted thoughts on why I built my own website with a blog i
 socialcloudinaryimg: "flight/view-from-plane.jpg"
 date: 2021-03-30T10:30:00-06:00
 tags: ["meta", "dev"]
-draft: false
+draft: true
 ---
 I built my first website in 2003, the summer before starting Junior High. I was in a University of Alberta summer camp that taught kids to write very basic code. The final product was a greenish-grey, purely HTML, Web 1.0 site presenting very basic information about the game Star Wars: Galactic Battlegrounds. I learned how to publish the site to GeoCities, took the files home on multiple floppy disks, and then forgot about it as I went back to playing Star Wars.
 

@@ -1,17 +1,35 @@
 ---
-title: "Hello!"
-description: "I'm a software developer and photographer interested in conveying information and stories in interdisciplinary ways."
+title: ""
+description: "Software developer + photographer."
 ---
-I’m Abbie Schenk, a **software developer** and **photographer**. I'm interested in conveying information and stories in interdisciplinary ways, combining interactive web apps, digital mapping, photography, video, writing, and other methods.
 
-I use this website to catalog **[Projects](/projects)** and write **[Posts](/posts)** about them, my processes, and other thoughts on **work** and **leisure**.
+# About
+I’m Abbie Schenk, a **software developer** and **photographer**. 
 
-My **software development** experience is mainly in **Java**, with 3+ years of professional experience and a **BSc. in Computing Science**. I've also used a lot of Javascript and CSS, Unity3D, and done some Android app development.
+I’m interested in conveying information and stories in interdisciplinary ways, combining interactive web apps, digital mapping, photography, video, writing, and other methods.
 
-I've worked in multimedia content creation, digital communications, and various roles at the University of Alberta. My **Master of Arts in Recreation and Leisure Studies** thesis used photography to examine travel as a meaningful, transitional time.
+This website is a non-comprehensive collection of projects I have worked on.
 
-# Work
-Some of my work can be found on the **[Projects](/projects)** page. My resume and CV are also available on request.
+---
+
+# Experience
+- Software Development
+    - 4+ years of professional experience ([LinkedIn](https://www.linkedin.com/in/abbie-schenk/), CV on request)
+    - Most recently: Javascript/Typescript (React.js + Node.js)
+    - Other: Java/Spring, Gatsby.js, Unity3D, some Android
+- Photography
+- Videography
+- Digital Communications
+
+---
+
+# Education
+- Master of Arts in Recreation and Leisure Studies 
+<br/><span style='font-size: 1.0rem'>Thesis: A Photographic Autoethnography on Travel as a Meaningful Transitional Time</span>
+- BSc. Computing Science
+
+---
 
 # Contact
-I'm open to hearing about opportunities to collaborate and work with like-minded people. The best way to reach me is via **[email](mailto:abbieschenk@gmail.com)**.
+
+I'm open to hearing about opportunities to collaborate and work with like-minded people. You can reach me via **[email](mailto:abbieschenk@gmail.com)**.

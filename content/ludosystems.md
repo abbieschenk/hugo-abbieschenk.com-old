@@ -1,6 +1,6 @@
 ---
 title: "Ludo.Systems"
-description: "Visual game development tools designed for non-programmmers, exportable in common formats to work with almost any game engine."
+description: "A tree-based visual game development tool designed for non-programmmers, exportable in common formats to work with almost any game engine."
 date: 2021-06-10T09:30:00-06:00
 tags: ["dev", "react", "java", "spring boot", "postgresql", "work in progress"]
 socialcloudinaryimg: "projects/ludo-systems/dialogue_iodzkr.png"

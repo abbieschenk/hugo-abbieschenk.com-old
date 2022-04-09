@@ -4,7 +4,7 @@ description: "A technical overview of how I built this site using Hugo and a cus
 date: 2021-03-30T10:40:00-06:00
 tags: [meta, dev, hugo]
 socialcloudinaryimg: "flight/view-from-plane.jpg"
-draft: false
+draft: true
 ---
 After determining [why I wanted to build a site](/posts/why-built-site/), I had to actually build it. Static site generators (SSGs) are constantly recommended, and are also free to host using a combination of GitHub, products like Netlify, and Cloudinary for images. I wanted to try one out myself.
 
