@@ -1,3 +1,5 @@
+:warning: This is old and not maintained.
+
 # abbieschenk.com
 
 The code for my website that runs on Hugo.
